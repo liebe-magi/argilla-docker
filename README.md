@@ -1,2 +1,2 @@
 # argilla-docker
-docker-compose.yml for Argilla
+docker-compose.yaml for Argilla
